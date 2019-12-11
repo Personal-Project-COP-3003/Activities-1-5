@@ -1,0 +1,132 @@
+<resources>
+    <!-- DICE ROLLER ACTIVITY -->
+    <string name="dice_roller">Dice Roller</string>
+    <string name="roll_label">Roll</string>
+    <string name="reset">Reset</string>
+    <string name="dice_description">Dice</string>
+    <string name="dice_roller_text">Dice Roller Activity!</string>
+    <!-- DICE ROLLER ACTIVITY END -->
+
+    <!-- ABOUT ME ACTIVITY -->
+    <string name="about_me">About Me</string>
+    <string name="my_name">Jana Grunewald</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">I have worked retail for over two years now. I started
+        as a cashier at JCPenney on 25 May 2017 and stayed there until 20 October
+        2019. I then switched to Bass Pro Shops on 26 October 2019 and am still
+        working there at this time. \n I am a Third year at FGCU in the Software
+        Engineering department. I am very interested in Graphic Design and Web
+        Design as well. \n \n In February 2019 I attended MangoHacks
+        at FIU. At MangoHacks (A hackathon in Miami Florida), my team, VR Stim,
+        got best use of SnapKit in our program. We decided to use VR to create a
+        "safe place" for people to enter when they are feeling depressed,
+        stressed or anxious. There are four walls full of things you have
+        liked from different social media platforms. There is music that
+        plays to help keep you calm. And you have your 3D bitmoji to react
+        with you. \n \n This semester in Software Engineering Fundamentals, I worked
+        together with five other members to create a car rental service. The group
+        is called Metal Pandas. I am proud of this work, as the logo was hand made
+        and there was a complicated system we had  to work with. \n \n Thank you for
+        reading my bio!</string>
+    <string name="half_filled_star">Half Filled Star</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+    <!-- ABOUT ME ACTIVITY END -->
+
+    <!-- COLOUR VIEW ACTIVITY -->
+    <string name="colour_view">Colour View Activity</string>
+    <string name="how_to_play">How To Play:</string>
+    <string name="tap_the_boxes_and_buttons">Tap the screen and buttons</string>
+    <string name="button">Click Me!</string>
+    <!-- COLOUR VIEW ACTIVITY END -->
+
+    <!-- ANDROID TRIVIA ACTIVITY -->
+    <string name="position">Position</string>
+    <string name="select_an_avatar">Select an Avatar</string>
+    <string name="android_trivia">Android Trivia</string>
+    <string name="about_text">Android Trivia will help remind you of important concepts you have learned and will learn in Android development.\n\nConsider modifying the questions and graphics to make this game your own!</string>
+    <string name="rules_text">Select the answer from the options given. Each time you get an answer correct, you advance to the next question.\n\nIf you get the answer wrong, your game ends! You can return to the title screen using up or back from within the game screen, and this will also end your game.</string>
+    <string name="rules">Rules</string>
+    <string name="about">About</string>
+    <string name="trivia_hint">Trivia Hint</string>
+    <string name="title_android_trivia_question">Android Trivia (%1$d/%2$d)</string>
+    <string name="title_about_trivia">About Trivia</string>
+    <string name="title_trivia_rules">Trivia Rules</string>
+    <string name="share_success_text">I mastered #UdacityAndroidTrivia with %1$d/%2$d correct questions!</string>
+    <string name="submit_button">Submit</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="share">Share</string>
+    <string name="sharing_not_available">Sharing Not Available</string>
+    <string name="play">Play</string>
+    <string name="trivia">Trivia title page</string>
+    <string name="game_over">Game Over</string>
+    <string name="try_again">Try Again?</string>
+    <string name="androidTrivia">Android Trivia</string>
+    <!-- ANDROID TRIVIA ACTIVITY END -->
+
+    <!-- DESSERT CLICKER ACTIVITY -->
+    <string name="dessert_clicker">Dessert Clicker</string>
+    <string name="dollar_sign">$</string>
+    <string name="zero">0</string>
+    <string name="dessert_sold">Desserts Sold</string>
+    <string name="share_text">I\'ve clicked %1$d Desserts for a total of %2$d$ #AndroidDessertClicker</string>
+    <!-- DESSERT CLICKER ACTIVITY END -->
+
+    <!-- GUESS THE WORD ACTIVITY END -->
+    <string name="guess_the_word">Guess The Word</string>
+    <string name="skip">Skip</string>
+    <string name="play_again">Play Again</string>
+    <string name="you_scored">You Scored</string>
+    <string name="title_text">Guess The Word!</string>
+    <string name="play_button">Play</string>
+    <string name="get_ready">Get ready to</string>
+    <string name="got_it">Got it</string>
+    <string name="word_is">The word is…</string>
+    <string name="quote_format">\"%s\"</string>
+    <string name="score_format">Current Score: %d</string>
+    <!-- GUESS THE WORD ACTIVITY END -->
+
+    <!-- SLEEP TRACKER ACTIVITY -->
+    <string name="sleep_tracker">Sleep Tracker</string>
+    <string name="sleep_tracker_fragment">SleepTrackerFragment</string>
+    <string name="sleep_quality_fragment">SleepQualityFragment</string>
+    <!-- Button labels -->
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="clear">Clear</string>
+    <!-- contentDescription strings for quality icons -->
+    <string name="quality_0">Sleep Quality 0</string>
+    <string name="quality_1">Sleep Quality 1</string>
+    <string name="quality_2">Sleep Quality 2</string>
+    <string name="quality_3">Sleep Quality 3</string>
+    <string name="quality_4">Sleep Quality 4</string>
+    <string name="quality_5">Sleep Quality 5</string>
+    <!-- Output to TextView styled with a little HTML -->
+    <string name="title"><![CDATA[<h3>HERE IS YOUR SLEEP DATA</h3>]]></string>
+    <string name="start_time"><![CDATA[<b>Start:</b>]]></string>
+    <string name="end_time"><![CDATA[<b>End:</b>]]></string>
+    <string name="quality"><![CDATA[<b>Quality:</b>]]></string>
+    <string name="hours_slept"><![CDATA[<b>Hours:Minutes:Seconds</b>]]></string>
+    <!-- Sleep quality strings -->
+    <string name="how_was_hour_sleep">How was your sleep?</string>
+    <string name="zero_very_bad">Very bad</string>
+    <string name="one_poor">Poor</string>
+    <string name="two_soso">So-so</string>
+    <string name="three_ok">OK</string>
+    <string name="four_pretty_good">Pretty good</string>
+    <string name="five_excellent">Excellent!</string>
+    <!-- Toast to play after Clear button has been pressed -->
+    <string name="cleared_message">All your data is gone forever.</string>
+    <string name="you_win">You Win</string>
+    <string name="next_match">Next Match</string>
+    <string name="question">Question</string>
+    <string name="cupcake">Cupcake</string>
+    <string name="nav_image">Nav Image</string>
+    <string name="about_image">About image</string>
+    <string name="game_Over">Game Over</string>
+    <string name="android_Trivia">Android Trivia</string>
+    <string name="bakery_background">Bakery background</string>
+    <!-- SLEEP TRACKER ACTIVITY END -->
+
+
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.helloworld">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/dice_roller"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".GuessTheWord" android:label="@string/guess_the_word"/>
+        <activity android:name=".DessertClicker" android:label="@string/dessert_clicker" />
+
+        <activity
+            android:name=".AndroidTrivia"
+            android:label="@string/android_trivia" />
+        <activity
+            android:name=".ColourView"
+            android:label="@string/colour_view" />
+        <activity
+            android:name=".AboutMe"
+            android:label="@string/about_me" />
+        <activity android:name=".DiceRoller">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#FC030F</color>
+
+    <!-- DICE ROLLER ACTIVITY -->
+    <color name="rollButton">#FFA561</color>
+    <color name="resetButton">#D79CFF</color>
+    <!-- DICE ROLLER ACTIVITY END -->
+
+    <!-- ABOUT ME ACTIVITY -->
+    <color name="aboutMeButton">#4A67F7</color>
+    <color name="doneColour">#A11A10</color>
+    <!-- ABOUT ME ACTIVITY END -->
+
+    <!-- COLOUR VIEW ACTIVITY -->
+    <color name="colourViewButton">#669933</color>
+    <color name="my_green">#12C700</color>
+    <color name="my_red">#E54304</color>
+    <color name="my_yellow">#FFC107</color>
+    <!-- COLOUR VIEW ACTIVITY END -->
+
+    <!-- ANDROID TRIVIA ACTIVITY -->
+    <color name="androidTriviaButton">#4af7e6</color>
+    <color name="youWinDark">#35A571</color>
+    <color name="youWinBackground">#B7F8C9</color>
+    <color name="gameOverBackground">#f8bbd0</color>
+    <color name="color_primary">#008577</color>
+    <color name="color_primary_dark">#00574B</color>
+    <color name="color_accent">#D81B60</color>
+    <color name="white">#ffffff</color>
+    <color name="green">#6ab343</color>
+    <color name="grey">#99000000</color>
+    <!-- ANDROID TRIVIA ACTIVITY END -->
+
+    <!-- DESSERT CLICKER ACTIVITY -->
+    <color name="dessertClicker">#8c6022</color>
+    <!-- DESSERT CLICKER ACTIVITY END-->
+
+    <!-- GUESS THE WORD ACTIVITY -->
+    <color name="guess_the_word">#6373ff</color>
+    <color name="ok_green_color">#6ab343</color>
+    <color name="selected_green_color">#388310</color>
+    <color name="skip_red_color">#f44336</color>
+    <color name="selected_red_color">#ba000d</color>
+    <color name="black_text_color">#de000000</color>
+    <color name="grey_text_color">#99000000</color>
+    <color name="grey_button_color">#606060</color>
+    <color name="white_text_color">#ffffff</color>
+    <!-- GUESS THE WORD ACTIVITY END-->
+
+    <!-- SLEEP TRACKER ACTIVITY -->
+    <color name="sleep_tracker">#f754cc</color>
+    <color name="green_color">#388310</color>
+    <!-- SLEEP TRACKER ACTIVITY END-->
+
+
+</resources>
