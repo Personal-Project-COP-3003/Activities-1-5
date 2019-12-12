@@ -1,6 +1,6 @@
-# Activities 1-5
+# Activities 1-7
 
-## What I will be doing throughout the 10 weeks: 
+## What I will be doing throughout the 7 weeks: 
   I wil be making sure the elements flow well, and making sure the app looks visually appealing.
 
 ## Week 1:
@@ -8,7 +8,7 @@
   
 ### What I accomplished in week 1:
   #### 1.0: 
-    I spent an hour downloading the Android Studio.
+    I spent 1 hour downloading the Android Studio.
   #### 1.1:
     I spent 30 minutes getting the files to load in and for Android Studio to load in properly.
     
@@ -95,82 +95,46 @@
     It still doesn't work.
     
   #### 5.2: 
-    I spent   hour reading through the tutorial. I was able to add .
+    I spent   hour reading through the tutorial. I was able to add the full guess the word game.
     
   #### 5.3: 
-    I spent  hour reading through the tutorial. I was able to add  . 
+    I spent  hour reading through the tutorial. I was able to add a button on the screen to move you to the next activity. 
     
   #### 5.4
-    I spent  hour reading the tutorial. I was able to add  .
+    I spent  hour reading the tutorial. I was able to add animation functionality and a timer.
 
 ## Week 6: 
   I will complete lesson 6 of the Android Kotlin Fundamentals course. This lesson is learning how to add support to your app and how to make the app run smoother.
 
 ### What I accomplished in week 6:
  #### 6.1:
-    I spent   hour reading through the tutorial. I was able to add .
+    I spent 4 hours reading through the tutorial and trying to fix the dependencies. I was able to add the beginning stages
+    of the sleep tracker.
     
   #### 6.2: 
-    I spent   hour reading through the tutorial. I was able to add .
+    I spent 1 hour reading through the tutorial. I was able to add the animations of the buttons being visible or not.
     
   #### 6.3: 
-    I spent   hour reading through the tutorial. I was able to add .
+    I spent 1 hour reading through the tutorial. I was able to add the emojis for how well you slept.
     
 ## Week 7:
   I will complete lesson 7 of the Android Kotlin Fundamentals course. This lesson is learning how the RecyclerView works. This is basically a list that continues to scroll through the elements of your app.
 
 ### What I accomplished in week 7:
  #### 7.1:
-    I spent   hour reading through the tutorial. I was able to add .
+    I spent 3 hours reading through the tutorial and trying to fix the dependency issues. I was able to finally figure it
+    out after restarting three times.
     
   #### 7.2: 
-    I spent   hour reading through the tutorial. I was able to add .
+    I spent 30 minutes reading through the tutorial. I was able to add a recycler view and display the text on the screen.
     
   #### 7.3: 
-    I spent   hour reading through the tutorial. I was able to add .
+    I spent 1 hour reading through the tutorial. I was able to add animations switching between screens.
     
   #### 7.4:
-    I spent   hour reading through the tutorial. I was able to add .
+    I spent 15 minutes reading through the tutorial. I was able to add a layout view for items to be displayed.
     
   #### 7.5: 
-    I spent   hour reading through the tutorial. I was able to add .
+    I spent 15 minutes reading through the tutorial. I was able to add a header to the program.
     
 
-## Week 8:
-  I will complete lesson 8 of the Android Kotlin Fundamentals course. This lesson is learning how to make your app connect to the internet and how to make it function properly.
-
-### What I accomplished in week 8:
- #### 8.1:
-    I spent   hour reading through the tutorial. I was able to add .
-    
-  #### 8.2: 
-    I spent   hour reading through the tutorial. I was able to add .
-    
-  #### 8.3: 
-    I spent   hour reading through the tutorial. I was able to add .
-
-## Week 9:
-  I will complete lesson 9 of the Android Kotlin Fundamentals course. This lesson is learning how to properly store the app in a repository. I am assuming this is a section on the phone where data for the app is stored after the initial download.
-
-### What I accomplished in week 9:
- #### 9.1:
-    I spent   hour reading through the tutorial. I was able to add .
-    
-  #### 9.2: 
-    I spent   hour reading through the tutorial. I was able to add .
-    
-  #### 9.3: 
-    I spent   hour reading through the tutorial. I was able to add .
-
-## Week 10: 
-  I will complete lesson 10 of the Android Kotlin Fundamentals course. This lesson is learning how to make your app avaliable to everyone.
-
-### What I accomplished in week 10:
- #### 10.1:
-    I spent   hour reading through the tutorial. I was able to add .
-    
-  #### 10.2: 
-    I spent   hour reading through the tutorial. I was able to add .
-    
-  #### 10.3: 
-    I spent   hour reading through the tutorial. I was able to add .
