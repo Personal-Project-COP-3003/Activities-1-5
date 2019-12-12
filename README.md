@@ -1,6 +1,6 @@
 # Activities 1-7
 
-## What I will be doing throughout the 10 weeks: 
+## What I will be doing throughout the 7 weeks: 
   I wil be making sure the elements flow well, and making sure the app looks visually appealing.
 
 ## Week 1:
