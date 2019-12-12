@@ -13,7 +13,7 @@ class SleepTracker : AppCompatActivity() {
 
         val btnOpenActivity : Button = findViewById(R.id.marsRealEstateButton)
         btnOpenActivity.setOnClickListener {
-            val intent = Intent(this, SleepTracker :: class.java)
+            val intent = Intent(this, MarsRealEstate :: class.java)
             startActivity(intent)
         }
     }

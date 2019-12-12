@@ -3,6 +3,7 @@
     package="com.example.helloworld">
 
     <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -11,7 +12,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SleepTracker"></activity>
+        <activity android:name=".MarsRealEstate"></activity>
+        <activity android:name=".SleepTracker" />
         <activity
             android:name=".GuessTheWord"
             android:label="@string/guess_the_word" />

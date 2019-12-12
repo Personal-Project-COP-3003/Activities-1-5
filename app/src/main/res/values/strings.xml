@@ -87,7 +87,7 @@
     <!-- GUESS THE WORD ACTIVITY END -->
 
     <!-- DESSERT CLICKER ACTIVITY -->
-   <string name="sleepTrackerButton">Sleep Tracker</string>
+    <string name="sleepTrackerButton">Sleep Tracker</string>
     <string name="dessert">Dessert</string>
     <string name="bakery_background">Bakery Background</string>
     <string name="nav_image">Nav Image</string>
@@ -138,9 +138,13 @@
     <string name="quality_rate">Quality</string>
 
     <!-- MARS REAL ESTATE ACTIVITY END -->
-
-
-
-
+    <string name="show_all">Show all</string>
+    <string name="show_rent">Rent</string>
+    <string name="show_buy">Buy</string>
+    <string name="type_rent">Rent</string>
+    <string name="type_sale">Sale</string>
+    <string name="display_type">For %s</string>
+    <string name="display_price_monthly_rental">$%,.0f/month</string>
+    <string name="display_price">$%,.0f</string>
 
 </resources>
