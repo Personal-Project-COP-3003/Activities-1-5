@@ -7,6 +7,7 @@ import androidx.lifecycle.ViewModelProviders
 import com.example.helloworld.R
 import com.example.helloworld.databinding.FragmentOverviewBinding
 import com.example.helloworld.databinding.GridViewItemBinding
+import com.example.helloworld.network.MarsApiFilter
 
 
 class OverviewFragment : Fragment() {
@@ -35,5 +36,16 @@ class OverviewFragment : Fragment() {
     override fun onCreateOptionsMenu(menu: Menu, inflater: MenuInflater) {
         inflater.inflate(R.menu.overflow_menu, menu)
         super.onCreateOptionsMenu(menu, inflater)
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        viewModel.updateFilter(
+            when (item.itemId) {
+                R.id.show_rent_menu -> MarsApiFilter.SHOW_RENT
+                R.id.show_buy_menu -> MarsApiFilter.SHOW_BUY
+                else -> MarsApiFilter.SHOW_ALL
+            }
+        )
+        return true
     }
 }
