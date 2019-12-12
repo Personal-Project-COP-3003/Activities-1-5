@@ -1,6 +1,6 @@
 # Activities 1-7
 
-## What I will be doing throughout the 7 weeks: 
+## What I will be doing throughout the 8 weeks: 
   I wil be making sure the elements flow well, and making sure the app looks visually appealing.
 
 ## Week 1:
@@ -45,17 +45,17 @@
     images to this section.
     
   #### 2.2: 
-    I spent  1 hour reading through the tutorial. I was able to add the nickname field.
+    I spent 1 hour reading through the tutorial. I was able to add the nickname field.
     
   #### 2.3: 
     I spent 1 hour reading through the tutorial. I was able to add the done button as well as making the 
     nickname coloured.
     
   #### 2.4: 
-    I spent  1 hour reading through the tutorial. I was able to align everything properly.
+    I spent 1 hour reading through the tutorial. I was able to align everything properly.
     
   #### 2.5: 
-    I spent  1 hour reading through the tutorial. I was able to add the star image and add a button for the colour view activity.
+    I spent 1 hour reading through the tutorial. I was able to add the star image and add a button for the colour view activity.
 
 
 ## Week 3: 
@@ -66,7 +66,7 @@
     I spent 1 hour reading through the tutorial. I was able to make the android trivia pages.
     
   #### 3.2: 
-    I spent  1 hour reading through the tutorial. I was able to navigate through different paths and making the pages link together.
+    I spent 1 hour reading through the tutorial. I was able to navigate through different paths and making the pages link together.
     
   #### 3.3: 
     I spent 1 hour reading through the tutorial. I was able to add the menu and the share button. I was able to make it work.
@@ -82,7 +82,7 @@
     images to this section.
     
   #### 4.2: 
-    I spent  1 hour reading through the tutorial. I was able to add a lifecycle system to the dessert clicker. I added a button
+    I spent 1 hour reading through the tutorial. I was able to add a lifecycle system to the dessert clicker. I added a button
     to switch to the guess the word activity.
     
 
@@ -95,13 +95,13 @@
     It still doesn't work.
     
   #### 5.2: 
-    I spent   hour reading through the tutorial. I was able to add the full guess the word game.
+    I spent 1 hour reading through the tutorial. I was able to add the full guess the word game.
     
   #### 5.3: 
-    I spent  hour reading through the tutorial. I was able to add a button on the screen to move you to the next activity. 
+    I spent 1 hour reading through the tutorial. I was able to add a button on the screen to move you to the next activity. 
     
   #### 5.4
-    I spent  hour reading the tutorial. I was able to add animation functionality and a timer.
+    I spent 1 hour reading the tutorial. I was able to add animation functionality and a timer.
 
 ## Week 6: 
   I will complete lesson 6 of the Android Kotlin Fundamentals course. This lesson is learning how to add support to your app and how to make the app run smoother.
@@ -136,5 +136,23 @@
     
   #### 7.5: 
     I spent 15 minutes reading through the tutorial. I was able to add a header to the program.
-    
 
+## Week 8:
+  I will complete lesson 8 of the Android Kotlin Fundamentals course. This lesson is learning how to make your app connect to the internet and how to make it function properly.
+
+### What I accomplished in week 8:
+ #### 8.1:
+    I spent 1 hour reading through the tutorial.
+    I was able to add the mars retail view to the project.
+    
+  #### 8.2: 
+    I spent 1 hour reading through the tutorial. I was able to add the recycle view to help make the format look better.
+    
+  #### 8.3: 
+    I spent 5 hours reading through the tutorial and trying to get the DetailDirections java generated file to generate. 
+    I was able to add a detailed view for more information on the property for sale.
+
+
+
+## Total Time Spent:
+ 36 hours and 45 minutes
