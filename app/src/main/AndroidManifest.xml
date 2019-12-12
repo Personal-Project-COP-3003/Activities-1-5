@@ -11,9 +11,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".GuessTheWord" android:label="@string/guess_the_word"/>
-        <activity android:name=".DessertClicker" android:label="@string/dessert_clicker" />
-
+        <activity android:name=".SleepTracker"></activity>
+        <activity
+            android:name=".GuessTheWord"
+            android:label="@string/guess_the_word" />
+        <activity
+            android:name=".DessertClicker"
+            android:label="@string/dessert_clicker" />
         <activity
             android:name=".AndroidTrivia"
             android:label="@string/android_trivia" />

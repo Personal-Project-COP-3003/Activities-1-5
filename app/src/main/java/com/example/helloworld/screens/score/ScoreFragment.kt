@@ -13,9 +13,6 @@ import androidx.navigation.fragment.navArgs
 import com.example.helloworld.R
 import com.example.helloworld.databinding.ScoreFragmentBinding
 
-/**
- * Fragment where the final score is shown, after the game is over
- */
 class ScoreFragment : Fragment() {
 
     private lateinit var viewModel: ScoreViewModel

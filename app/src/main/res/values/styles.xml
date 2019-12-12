@@ -49,7 +49,6 @@
     <!-- GUESS THE WORD STYLES END -->
 
     <!-- SLEEP TRACKER STYLES END -->
-    <!-- Basic styling for the buttons. -->
     <style name="SleepButtons" parent="Widget.AppCompat.Button.Colored">
         <item name="android:textColor">@color/white_text_color</item>
         <item name="colorAccent">@color/green_color</item>

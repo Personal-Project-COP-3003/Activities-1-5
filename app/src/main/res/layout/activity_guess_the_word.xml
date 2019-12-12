@@ -7,6 +7,11 @@
     android:layout_height="match_parent"
     tools:context=".GuessTheWord">
 
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".GuessTheWord">
+
     <fragment
         android:id="@+id/nav_host_fragment"
         android:name="androidx.navigation.fragment.NavHostFragment"
@@ -14,4 +19,19 @@
         android:layout_height="match_parent"
         app:defaultNavHost="true"
         app:navGraph="@navigation/main_navigation" />
+
+        <Button
+            android:id="@+id/sleepTracker"
+            android:layout_width="143dp"
+            android:layout_height="52dp"
+            android:background="@color/color_primary_dark"
+            android:text="@string/sleepTrackerButton"
+            android:textColor="#FFFFFF"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.023" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
 </merge>

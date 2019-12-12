@@ -1,9 +1,7 @@
 package com.example.helloworld
 
-import android.content.Intent
 import android.os.Bundle
 import android.view.*
-import android.widget.Button
 import androidx.fragment.app.Fragment
 import androidx.databinding.DataBindingUtil
 import androidx.navigation.findNavController
@@ -31,10 +29,6 @@ class TitleFragment : Fragment() {
 
         setHasOptionsMenu(true)
         return binding.root
-
-
-
-
     }
 
     override fun onCreateOptionsMenu(menu: Menu, inflater: MenuInflater) {

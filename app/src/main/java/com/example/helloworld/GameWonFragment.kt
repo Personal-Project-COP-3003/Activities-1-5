@@ -7,7 +7,6 @@ import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.navigation.findNavController
 import com.example.helloworld.databinding.FragmentGameWonBinding
-import helloworld.GameWonFragmentArgs
 
 
 class GameWonFragment : Fragment() {
@@ -48,7 +47,7 @@ class GameWonFragment : Fragment() {
         // check if the activity resolves
         if (null == getShareIntent().resolveActivity(activity!!.packageManager)) {
             // hide the menu item if it doesn't resolve
-            menu.findItem(R.id.share)?.isVisible = false
+            menu.findItem(R.id.share)?.setVisible(false)
         }
     }
 
