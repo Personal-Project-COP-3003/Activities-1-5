@@ -158,5 +158,5 @@
  36 hours and 45 minutes
  
 # Demonstration
-![](demo.gif)
+![](demopersonal.gif)
 
