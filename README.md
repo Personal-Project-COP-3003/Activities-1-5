@@ -158,5 +158,12 @@
  36 hours and 45 minutes
  
 # Demonstration
-![](demopersonal.gif)
+App Demonstration weeks 1-5 (10 Dec 2019):
+
+![Weeks 1-5](appdemo.gif)
+
+
+App Demonstration weeks 1-8 (12 Dec 2019): 
+
+![Weeks 1-8](demopersonal.gif)
 
