@@ -1,4 +1,4 @@
-# Activities 1-7
+# Activities 1-8
 
 ## What I will be doing throughout the 8 weeks: 
   I wil be making sure the elements flow well, and making sure the app looks visually appealing.
@@ -156,3 +156,7 @@
 
 ## Total Time Spent:
  36 hours and 45 minutes
+ 
+# Demonstration
+![](demo.gif)
+
